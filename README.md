@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @PoojaHiregoudar
-- 👀 I’m interested in Data Analytics and Software Developer
+- 👋 Hi, I’m Pooja Hiregoudar
+- 👀 I’m interested in Data Analytics and Software Development
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me 
-
 Emailid: poojaghiregoudar@gmail.com
 
 <!---
